@@ -16,13 +16,14 @@ body{
     max-width: 279px;
     text-align: center;
     border-right-style: solid;
+    border-right-color: #C45AB3;
     flex: 1;
 
 }
 
 .sidenav > button{
 
-    background-color: lightgrey;
+    background-color: #EC7D10;
     border-style: none;
     /*border-radius: 25px;*/
     height: 35px;
@@ -33,7 +34,8 @@ body{
 
 .sidenav > button:hover{
 
-    background-color: #e6e7e8;
+    background-color: #F4A965;
+    border-color: #C45AB3;
     border-style: solid;
 
 }
@@ -73,6 +75,8 @@ body{
     margin-top: 20px;
     margin-bottom: 10px;
     margin-left: 60px;
+    color: #A41623;
+    font-weight: bold;
 
 }
 
@@ -129,7 +133,7 @@ body{
     margin-top: 40px;
     margin-right: 20px;
     border-bottom-style: solid;
-    border-bottom-color: lightgrey;
+    border-bottom-color: #A41623;
     border-bottom-width: 5px;
 
 
@@ -137,7 +141,7 @@ body{
 
 .portfolio_topnav > button{
 
-    background-color: lightgrey;
+    background-color: #EC7D10;
     border-style: none;
     height: 45px;
     width: 210px;
@@ -148,8 +152,9 @@ body{
 
 .portfolio_topnav > button:hover{
 
-    background-color: #e6e7e8;
+    background-color: #F4A965;
     border-style: solid;
+    border-color: #C45AB3;
 
 }
 
